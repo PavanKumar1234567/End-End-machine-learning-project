@@ -7,14 +7,12 @@ class Config:
     *
     * filename:       config.py
     * version:        1.0
-    * author:         CODESTUDIO
-    * creation date:  05-MAY-2020
-    *
-    * change history:
+    * author:         PAVAN
+    * change history
     *
     * who             when           version  change (include bug# if apply)
     * ----------      -----------    -------  ------------------------------
-    * bcheekati       05-MAY-2020    1.0      initial creation
+    * PAVAN       05-MAY-2020    1.0      initial creation
     *
     *
     * description:    Class for configuration instance attributes
